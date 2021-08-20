@@ -17,8 +17,8 @@ namespace JuegoFormarParejas
         Random random = new Random();
         List<string> iconos = new List<string>()
     {
-        "!", "!", "N", "N", ",", ",", "k", "k",
-        "b", "b", "v", "v", "w", "w", "z", "z"
+        "L", "L", "N", "N", "Y", "Y", "Ñ", "Ñ",
+        "b", "b", "e", "e", "w", "w", "E", "E"
     };
         public Form1()
         {
