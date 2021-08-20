@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace JuegoFormarParejas
 {
+    //Oscar Manuel Lopez Velasquez
+
     public partial class Form1 : Form
     {
         Label firstClicked = null;
