@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace JuegoFormarParejas
 {
     //Oscar Manuel Lopez Velasquez
+    //Nathaly Milena Zelaya Caballero
 
     public partial class Form1 : Form
     {
