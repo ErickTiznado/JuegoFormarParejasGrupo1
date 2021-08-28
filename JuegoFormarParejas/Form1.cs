@@ -12,7 +12,7 @@ namespace JuegoFormarParejas
 {
     //Oscar Manuel Lopez Velasquez
     //Nathaly Milena Zelaya Caballero
-   //Franklin Stanley Larin Saravia
+   //Franklin Stanley Larin  Saravia
     public partial class Form1 : Form
     {
         Label firstClicked = null;
